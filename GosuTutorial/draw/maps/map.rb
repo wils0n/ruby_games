@@ -41,6 +41,7 @@ class Map
         end
       end
     end
+
   end
   
   # Solid at a given pixel position?
